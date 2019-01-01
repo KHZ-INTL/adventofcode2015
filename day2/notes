@@ -1,0 +1,28 @@
+Part 1: present paper
+
+input format
+length L, width W, height H
+
+surface area of box
+2*L*W + 2*W*H + 2*H*L
+
+2x3x4
+2*2*3 + 2*2*3 + 2*3*3
+
+slack
+Area of smallest side
+Area = L*W
+
+Part 2: Ribbion length
+ribbon width = same
+length = variable
+length = shortest distance arount present sides, or smallest primeter of any one face.
+
+bow = cubic feet of volume of the present
+
+length of ribbon = primeter = 2*Length + 2*Width
+bow = cubic ft of volume = L*w*h
+
+
+
+
